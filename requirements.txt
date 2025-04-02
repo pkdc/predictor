@@ -1,0 +1,27 @@
+# Core Libraries
+pandas>=1.5.3,<3.0.0          # Data manipulation
+numpy>=1.24.2,<2.0.0           # Numerical computing
+matplotlib>=3.7.1,<4.0.0       # Data visualization
+seaborn>=0.12.2,<1.0.0         # Statistical data visualization
+
+# Machine Learning & NLP
+scikit-learn>=1.2.2,<2.0.0     # ML models (Logistic Regression, SVM)
+
+# BERT Embeddings with TensorFlow/Keras
+transformers>=4.27.4,<5.0.0    # Hugging Face Transformers (no PyTorch)
+tensorflow>=2.16.1,<3.0.0      # Backend for Keras
+keras>=3.0.0,<4.0.0           # Keras for building Neural Networks
+tensorflow-text>=2.7.0,<3.0.0  # Text preprocessing
+tensorflow-hub>=0.12.0,<1.0.0  # Pre-trained models
+
+# Streamlit for UI
+streamlit>=1.20.0,<2.0.0       # Front-end web app framework
+
+beautifulsoup4>=4.12.0, <5.0.0 # Clean HTML data
+
+# label-studio>=1.16.0, <2.0.0     # Data labeling tool
+
+joblib>=1.2.0, <2.0.0          # Save models
+
+xgboost>=3.0.0, <4.0.0          # Gradient boosting
+gdown
